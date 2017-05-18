@@ -144,3 +144,4 @@
 [关于两种 CI/CD 策略以及 git 分支模型的思考](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0h09qz&aid=8470&nid=151)  
 [看完就会用的 Git 操作图解分析](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjdf8pv&aid=8533&nid=152)  
 [简介我的 Git Work Flow](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff5im3c&aid=9617&nid=167)
+[Square 公司怎么写提交信息](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxpq7qz&aid=9621&nid=167)
