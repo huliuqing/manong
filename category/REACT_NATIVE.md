@@ -79,3 +79,4 @@
 [小明找厕所：完整的 React Native 项目](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmajq0b&aid=8187&nid=146)  
 [React Native 你该了解的 Hello World](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo5j18e&aid=8212&nid=147)  
 [react-native-OneLess：一个 App 的 React Native 版本](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft815mw&aid=8428&nid=150)  
+[一个有经验的 React Native 和 mobx 融合的脚手架项目](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwk4uux&aid=9644&nid=167)
