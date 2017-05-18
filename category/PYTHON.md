@@ -315,3 +315,5 @@
 [Python 之旅（GitBook）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fibis6n&aid=8463&nid=151)  
 [Python 标准库之 functools/itertools/operator](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F65efuc&aid=8519&nid=152)  
 [Python 开发微信公众号后台（三）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FI4jguQakZC3iEYlD9G8PtA&aid=8520&nid=152)  
+[Python 并发编程之协程/异步IO](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fub500q&aid=9592&nid=167)
+[Python Nginx + uwsgi + WSGI 处理请求详解 ](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj7pjqd&aid=9593&nid=167)
