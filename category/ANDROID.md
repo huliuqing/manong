@@ -617,5 +617,5 @@
 [新一代开源 Android 渠道包生成工具 Walle](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsirsmj&aid=8564&nid=152)  
 [Alibaba-ARouter：简单好用的 Android 页面路由框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqu0v3&aid=8568&nid=152) [Android 模块化探索与实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flh4lon&aid=9586&nid=167)
 [Android 音量系统分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD2jOLsdX2lSepUw8yQ6nBA&aid=9587&nid=167)
-
-
+[Android 源码大招：撸这些完整项目，你不牛都难](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5h6rsx&aid=9643&nid=167)
+[Android 组件化开发框架 Android-Sun-Framework](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhgnlm&aid=9645&nid=167)
