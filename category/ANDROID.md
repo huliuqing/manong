@@ -615,4 +615,7 @@
 [CloudReader：使用 Gank.Io 及豆瓣 Api 开发的开源项目](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftcg2xu&aid=8499&nid=151)  
 [人人车 Android 客户端架构演进实录](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlqkqNv7BW2F7dPKOTzlxQw&aid=8512&nid=152)  
 [新一代开源 Android 渠道包生成工具 Walle](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsirsmj&aid=8564&nid=152)  
-[Alibaba-ARouter：简单好用的 Android 页面路由框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqu0v3&aid=8568&nid=152)  
+[Alibaba-ARouter：简单好用的 Android 页面路由框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqu0v3&aid=8568&nid=152) [Android 模块化探索与实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flh4lon&aid=9586&nid=167)
+[Android 音量系统分析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD2jOLsdX2lSepUw8yQ6nBA&aid=9587&nid=167)
+
+
