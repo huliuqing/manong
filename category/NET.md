@@ -4,3 +4,4 @@
 [拥抱 .NET Core，跨平台的轻量级 RPC：Rabbit.Rpc](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.cnblogs.com%2Fants%2Fp%2F5652132.html&aid=6866&nid=126)  
 [.NET 应用迁移到 .NET Core：调查案例](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPqko9ofLIdCDDO_oh6PivA&aid=8146&nid=146)  
 [.NET Core 2016 回顾](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb5zp70&aid=8398&nid=150)  
+[基于.NET平台常用的框架整理](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fakac99&aid=9624&nid=167)
