@@ -172,3 +172,4 @@
 [zmusic：仿酷狗 UI 效果和换肤功能](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwaqaml&aid=8006&nid=143)  
 [Swift 高手进阶：10 个技巧](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ru5mh&aid=8140&nid=146)  
 [硅谷的 Swift 面试题](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdnpwpx&aid=8395&nid=150)  
+[Swift 对象内存模型探究（一）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzIkB9KnAt1YPWGOOwyqY3Q&aid=9590&nid=167)
