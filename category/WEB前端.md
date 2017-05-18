@@ -279,3 +279,4 @@
 [小公司的前端可以怎么做](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEtR_A5AjvyverfXh6EeSRg&aid=8557&nid=152)  
 [听说 2017 你想写前端？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8vz1aIeVpRHmU2E2-7zzsQ&aid=8558&nid=152)  
 [WebRTC 的模块处理机制](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fro4im9&aid=8537&nid=152)  
+[[译] 浏览器前端优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgjttp5&aid=9642&nid=167)
