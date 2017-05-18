@@ -31,3 +31,5 @@
 [高仿饿了么 App 商家详情（vue2 + vue-router2 + es6 + webpack）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq61i9d&aid=8496&nid=151)  
 [VueCircleMenu：美炸天的 Vue 圆环菜单组件](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7hvxe4&aid=8565&nid=152)  
 [Rubik UI：Material Design 风格的轻量 Vue.js 组件库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpvke1u&aid=8567&nid=152)  
+[Karma 入门](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fam48hh&aid=9630&nid=167)
+[Vue SPA（单页应用）首屏优化实践](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fihvo7v&aid=9632&nid=167)
