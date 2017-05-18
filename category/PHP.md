@@ -189,3 +189,4 @@
 [使用 Swoole 加速 Laravel，性能提升 30 倍](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffvk7wq&aid=8545&nid=152)  
 [ysapi：由 Swoole + yaf 实现 socket 服务基础框架](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7agrgb&aid=8570&nid=152)  
 [PHP 应用性能优化指南](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtovqv&aid=9591&nid=167)
+[swoole2-mysqlpool：基于 Swoole 2 协程特性实现的 MySQL 连接池](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsr435w&aid=9647&nid=167)
