@@ -89,3 +89,5 @@
 [MySQL 线程池内幕](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpmf2ue&aid=8476&nid=151)  
 [MySQL 闪回原理与实战](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcj17a6&aid=8487&nid=151)  
 [记录一次 MySQL 批量插入的优化](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2qlheb&aid=8548&nid=152)  
+[InnoDB备忘录 - B+Tree索引](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsue5o8&aid=9623&nid=167)
+[]
