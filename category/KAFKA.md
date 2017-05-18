@@ -9,3 +9,5 @@
 [Logkafka：Apache Kafka 的日志收集代理](http://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F0c54an&aid=7217&nid=131)  
 [[译] 从 MySQL 到 Kafka，如何管理每天实时发布的几十亿条消息？](http://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5NzkxMzg1Nw%3D%3D%26mid%3D2653160745%26idx%3D1%26sn%3De9000520c7debe3a9ad55be7616130f8&aid=7509&nid=136)  
 [kafka 的高可用和一致性探究](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2jhqv9&aid=8100&nid=145)  
+[Kafka-php：使用 PHP 编写的 Kafka 客户端](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjgwj2u&aid=9504&nid=167)
+[KAFKA：如何做到 1 秒发布百万级条消息](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjj0kd7&aid=9601&nid=167)
