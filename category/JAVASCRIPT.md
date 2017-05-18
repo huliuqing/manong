@@ -304,3 +304,8 @@
 [[译] 2017 值得一瞥的 JavaScript 相关技术趋势](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3x1abx&aid=8465&nid=151)  
 [JavaScript 函数式编程导论](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2az5w0&aid=8522&nid=152)  
 [如何写出好的 JavaScript：浅谈 API 设计](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuehjjs&aid=8523&nid=152)  
+[[译] 15 个有趣的 JS 和 CSS 库（2017 年 5 月）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh4585k&aid=9634&nid=167)
+[[译] 基于 Vue JS, Webpack 以及 Material Design 的渐进式 Web 应用（一）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyyb7a&aid=9635&nid=167)
+[[译] 使用 Three.js 制作虫洞效果](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk1t5de&aid=9637&nid=167)
+[带你走进koa2的世界（koa2源码浅谈）](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1smneg&aid=9629&nid=167)
+[alimask：使用 Canvas 生成类似阿里巴巴内部网站水印图片的 JavaScript 库](http://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmt08m8&aid=9646&nid=167)
